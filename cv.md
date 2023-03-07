@@ -31,7 +31,7 @@ I am a first year master's student. I enjoy web design and web development, but 
 
 ## Experience ##
 I have no experience in IT companies
-## Education
+## Education ##
 Last year, I graduated from the Volgograd Polytechnic Institute with a degree in Informatics and Computer Engineering and entered the master's program there.
 ## English ## 
 B1
