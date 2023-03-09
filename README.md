@@ -1,1 +1,1 @@
-https://MxAyri.github.io/rsschool-cv/cv
+[#HTML, CSS & Git Basics](https://MxAyri.github.io/rsschool-cv/)
